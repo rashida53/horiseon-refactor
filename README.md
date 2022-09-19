@@ -3,7 +3,7 @@
 This repository has the HTML code for the HTML-CSS-Git Challenge for Module 1. It is a practice website to learn HTML and CSS.
 
 ## Contents
-The folders has the following contents - 
+The folders have the following contents - 
 * assets
     * css - Has the styling for the HTML
     * images - Has the images used on the page
@@ -26,6 +26,11 @@ The folders has the following contents -
 * Download the entire folder
 * Right click on the `index.html` file and open with any browser
 
+### The following image shows the web application's appearance and functionality:
+
+![screenshot](https://github.com/rashida53/horiseon-refactor/blob/main/output-screenshot.png?raw=true)
+
+
 ## Deployment
 
-This website has been deployed to this [URL](www.google.com) using Github pages.
+This website has been deployed to this [URL](https://rashida53.github.io/horiseon-refactor/) using Github pages.
